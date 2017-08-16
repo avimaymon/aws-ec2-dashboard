@@ -1,0 +1,7560 @@
+[
+	{
+		"Price": "2.76",
+		"InstanceType": "r3.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.231",
+		"InstanceType": "c1.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.23",
+		"InstanceType": "hi1.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.139",
+		"InstanceType": "m1.small",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.6",
+		"InstanceType": "cr1.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.585",
+		"InstanceType": "r4.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "3.33",
+		"InstanceType": "m4.16xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.146",
+		"InstanceType": "m3.large",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "1.616",
+		"InstanceType": "m4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.023",
+		"InstanceType": "t2.small",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "1.3",
+		"InstanceType": "cc1.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.179",
+		"InstanceType": "d2.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "6.198",
+		"InstanceType": "d2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.094",
+		"InstanceType": "t2.large",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "2.89",
+		"InstanceType": "d2.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.366",
+		"InstanceType": "r3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.624",
+		"InstanceType": "i3.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.734",
+		"InstanceType": "m3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.607",
+		"InstanceType": "hi1.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.548",
+		"InstanceType": "r4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "7.2",
+		"InstanceType": "p2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.896",
+		"InstanceType": "c4.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "g2.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.35",
+		"InstanceType": "m1.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.796",
+		"InstanceType": "c4.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "1.996",
+		"InstanceType": "i3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.062",
+		"InstanceType": "d2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.767",
+		"InstanceType": "g2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "p2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.8xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "2.705",
+		"InstanceType": "i2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.083",
+		"InstanceType": "c3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.563",
+		"InstanceType": "r3.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.329",
+		"InstanceType": "m1.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.601",
+		"InstanceType": "d2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.13",
+		"InstanceType": "m4.10xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "13.338",
+		"InstanceType": "x1.32xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.21",
+		"InstanceType": "m4.large",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "1.48",
+		"InstanceType": "d2.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "p2.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "1.11",
+		"InstanceType": "m2.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.154",
+		"InstanceType": "t2.large",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.27",
+		"InstanceType": "c3.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "1.38",
+		"InstanceType": "d2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.41",
+		"InstanceType": "i2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.17",
+		"InstanceType": "r4.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "7.782",
+		"InstanceType": "i2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.846",
+		"InstanceType": "i3.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.293",
+		"InstanceType": "r4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.86",
+		"InstanceType": "d2.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "7.532",
+		"InstanceType": "c4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.76",
+		"InstanceType": "d2.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.924",
+		"InstanceType": "c1.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.538",
+		"InstanceType": "c4.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "4.6",
+		"InstanceType": "hs1.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.164",
+		"InstanceType": "m1.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "15.6",
+		"InstanceType": "r4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.1",
+		"InstanceType": "cc2.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.998",
+		"InstanceType": "i2.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.212",
+		"InstanceType": "m3.large",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.72",
+		"InstanceType": "r4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.05",
+		"InstanceType": "p2.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.715",
+		"InstanceType": "g2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.108",
+		"InstanceType": "m1.small",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "2.608",
+		"InstanceType": "g3.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "3.5",
+		"InstanceType": "cr1.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.07",
+		"InstanceType": "t1.micro",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "7.936",
+		"InstanceType": "i3.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.02",
+		"InstanceType": "c3.xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "1.084",
+		"InstanceType": "p2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.812",
+		"InstanceType": "r3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.10xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.8xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "1.9132",
+		"InstanceType": "r4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.687",
+		"InstanceType": "c4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.21",
+		"InstanceType": "c3.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "9.836",
+		"InstanceType": "i2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "7.942",
+		"InstanceType": "i2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "6.669",
+		"InstanceType": "x1.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.044",
+		"InstanceType": "m1.small",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "f1.16xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.299",
+		"InstanceType": "m1.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.582",
+		"InstanceType": "m4.10xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "6.769",
+		"InstanceType": "x1.16xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "p2.8xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "4.41",
+		"InstanceType": "cc2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.006",
+		"InstanceType": "i2.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.165",
+		"InstanceType": "c3.large",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.53",
+		"InstanceType": "m4.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "2",
+		"InstanceType": "cc2.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.744",
+		"InstanceType": "i3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.378",
+		"InstanceType": "r3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.75",
+		"InstanceType": "d2.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.562",
+		"InstanceType": "c3.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.518",
+		"InstanceType": "m3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "30.144",
+		"InstanceType": "m4.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.938",
+		"InstanceType": "i2.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "7.25",
+		"InstanceType": "cr1.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "8.615",
+		"InstanceType": "r3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.156",
+		"InstanceType": "i3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "21.392",
+		"InstanceType": "p2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.825",
+		"InstanceType": "d2.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.216",
+		"InstanceType": "c3.large",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "2.1",
+		"InstanceType": "cc2.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "14.53",
+		"InstanceType": "p2.16xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.665",
+		"InstanceType": "r3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.617",
+		"InstanceType": "c3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.082",
+		"InstanceType": "r4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.large",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "1.814",
+		"InstanceType": "c4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.05",
+		"InstanceType": "i2.2xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "x1.16xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "1.903",
+		"InstanceType": "c4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "6.669",
+		"InstanceType": "x1.16xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.193",
+		"InstanceType": "r4.large",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.38",
+		"InstanceType": "d2.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "1.915",
+		"InstanceType": "f1.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "7.808",
+		"InstanceType": "i3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.large",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "3.015",
+		"InstanceType": "r3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "20.292",
+		"InstanceType": "i2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "16.132",
+		"InstanceType": "r3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "1.33",
+		"InstanceType": "r3.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.067",
+		"InstanceType": "m3.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "2.2",
+		"InstanceType": "cg1.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.682",
+		"InstanceType": "m4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "13.2",
+		"InstanceType": "f1.16xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "3.881",
+		"InstanceType": "i2.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.large",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.104",
+		"InstanceType": "m1.small",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "13.824",
+		"InstanceType": "m4.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.864",
+		"InstanceType": "m4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.913",
+		"InstanceType": "m1.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.518",
+		"InstanceType": "d2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.309",
+		"InstanceType": "r4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.2",
+		"InstanceType": "m4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.41",
+		"InstanceType": "i2.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "6.92",
+		"InstanceType": "i2.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "4.66",
+		"InstanceType": "g3.16xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.42",
+		"InstanceType": "c3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.393",
+		"InstanceType": "r4.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "1.768",
+		"InstanceType": "m4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.506",
+		"InstanceType": "t2.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "14.88",
+		"InstanceType": "r4.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.22",
+		"InstanceType": "m4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2",
+		"InstanceType": "m4.10xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.738",
+		"InstanceType": "r3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.336",
+		"InstanceType": "c1.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.568",
+		"InstanceType": "c4.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.579",
+		"InstanceType": "t2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.195",
+		"InstanceType": "i3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "5.65",
+		"InstanceType": "d2.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.11",
+		"InstanceType": "c4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "7.504",
+		"InstanceType": "g3.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.17",
+		"InstanceType": "m4.large",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.572",
+		"InstanceType": "c1.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "31.2",
+		"InstanceType": "r4.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.376",
+		"InstanceType": "c3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.869",
+		"InstanceType": "d2.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "1.638",
+		"InstanceType": "m2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "7.6528",
+		"InstanceType": "r4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.146",
+		"InstanceType": "d2.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "2.876",
+		"InstanceType": "i3.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "31.2",
+		"InstanceType": "r4.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.012",
+		"InstanceType": "t2.micro",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.131",
+		"InstanceType": "c3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "p2.16xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.686",
+		"InstanceType": "i3.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "5.52",
+		"InstanceType": "d2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "7.336",
+		"InstanceType": "x1.16xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.38",
+		"InstanceType": "g3.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.52",
+		"InstanceType": "r3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.715",
+		"InstanceType": "g2.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.385",
+		"InstanceType": "m1.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "4.386",
+		"InstanceType": "r4.16xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.31",
+		"InstanceType": "c1.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.489",
+		"InstanceType": "m2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.32",
+		"InstanceType": "r3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.44",
+		"InstanceType": "m4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.528",
+		"InstanceType": "c4.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "g2.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "4.56",
+		"InstanceType": "g3.16xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.585",
+		"InstanceType": "m3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.11",
+		"InstanceType": "m4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.966",
+		"InstanceType": "m4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.184",
+		"InstanceType": "m3.medium",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "8.64",
+		"InstanceType": "m4.10xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "31.936",
+		"InstanceType": "i3.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.0059",
+		"InstanceType": "t2.nano",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.3",
+		"InstanceType": "r4.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.805",
+		"InstanceType": "i2.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "1.064",
+		"InstanceType": "r4.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.large",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.05",
+		"InstanceType": "g2.2xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "f1.16xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.51",
+		"InstanceType": "c4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.243",
+		"InstanceType": "c1.medium",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "2.6",
+		"InstanceType": "g2.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "3.008",
+		"InstanceType": "c3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.3004",
+		"InstanceType": "t2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.243",
+		"InstanceType": "r3.large",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "1.14",
+		"InstanceType": "m3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.78",
+		"InstanceType": "c3.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.364",
+		"InstanceType": "c4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.133",
+		"InstanceType": "r4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.143",
+		"InstanceType": "c1.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "5.62",
+		"InstanceType": "d2.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.366",
+		"InstanceType": "r3.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "3.63",
+		"InstanceType": "cr1.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.806",
+		"InstanceType": "c4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.226",
+		"InstanceType": "r3.large",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "4.256",
+		"InstanceType": "r4.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.42",
+		"InstanceType": "m4",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "2.76",
+		"InstanceType": "r3.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "1.705",
+		"InstanceType": "i2.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.728",
+		"InstanceType": "m3.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.27",
+		"InstanceType": "m2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.27",
+		"InstanceType": "m2.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "1.53",
+		"InstanceType": "c4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.28",
+		"InstanceType": "m4.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.6",
+		"InstanceType": "hs1.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.498",
+		"InstanceType": "m1.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.2",
+		"InstanceType": "m4.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "2.166",
+		"InstanceType": "c3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.721",
+		"InstanceType": "c4.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "7.616",
+		"InstanceType": "m4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "16.072",
+		"InstanceType": "g2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.591",
+		"InstanceType": "c4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.881",
+		"InstanceType": "c4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "20.672",
+		"InstanceType": "p2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "21.88",
+		"InstanceType": "x1.32xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.27",
+		"InstanceType": "r4.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "10.146",
+		"InstanceType": "i2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.293",
+		"InstanceType": "m3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.665",
+		"InstanceType": "r3.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "g2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.953",
+		"InstanceType": "m3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.881",
+		"InstanceType": "c4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.large",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.023",
+		"InstanceType": "t2.small",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.816",
+		"InstanceType": "g2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "7.92",
+		"InstanceType": "p2.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.333",
+		"InstanceType": "r3.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.816",
+		"InstanceType": "i3.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "1.01",
+		"InstanceType": "m4.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.463",
+		"InstanceType": "r3.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.0225",
+		"InstanceType": "",
+		"OperationSystem": ""
+	},
+	{
+		"Price": "0.84",
+		"InstanceType": "r4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.787",
+		"InstanceType": "r4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.68",
+		"InstanceType": "c3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "10.487",
+		"InstanceType": "i2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.0159",
+		"InstanceType": "t2.nano",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "4.748",
+		"InstanceType": "d2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "8.327",
+		"InstanceType": "r4.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.9",
+		"InstanceType": "m4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.953",
+		"InstanceType": "r4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.728",
+		"InstanceType": "m4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.353",
+		"InstanceType": "i2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.16",
+		"InstanceType": "c4.large",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "1.884",
+		"InstanceType": "m4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "17.293",
+		"InstanceType": "x1.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.607",
+		"InstanceType": "hi1.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.641",
+		"InstanceType": "r3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.572",
+		"InstanceType": "c1.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.2",
+		"InstanceType": "cg1.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.05",
+		"InstanceType": "m3.2xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "6.144",
+		"InstanceType": "m4.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.5",
+		"InstanceType": "r3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.2",
+		"InstanceType": "m4.large",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.068",
+		"InstanceType": "t2.micro",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.166",
+		"InstanceType": "r3.large",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.083",
+		"InstanceType": "m1.small",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.691",
+		"InstanceType": "c4.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.539",
+		"InstanceType": "m2.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.192",
+		"InstanceType": "c4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "f1.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.69",
+		"InstanceType": "g3.16xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.202",
+		"InstanceType": "m4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.medium",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "1.393",
+		"InstanceType": "m3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.266",
+		"InstanceType": "m3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "15.968",
+		"InstanceType": "i3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "5.62",
+		"InstanceType": "d2.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.044",
+		"InstanceType": "m1.small",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.976",
+		"InstanceType": "c4.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.832",
+		"InstanceType": "r3.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.14",
+		"InstanceType": "g3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.376",
+		"InstanceType": "t2.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "14.4",
+		"InstanceType": "p2.16xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.10xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.931",
+		"InstanceType": "hs1.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.275",
+		"InstanceType": "m1.large",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "1.373",
+		"InstanceType": "i3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.66",
+		"InstanceType": "r3.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "8.199",
+		"InstanceType": "r3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.383",
+		"InstanceType": "c3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.752",
+		"InstanceType": "c3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.462",
+		"InstanceType": "c3.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "13.824",
+		"InstanceType": "m4.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.298",
+		"InstanceType": "c3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.682",
+		"InstanceType": "r4",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "f1.16xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "4.256",
+		"InstanceType": "r4.16xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "2.703",
+		"InstanceType": "cg1.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.074",
+		"InstanceType": "m3.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "17.96",
+		"InstanceType": "x1.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.876",
+		"InstanceType": "i2.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "14.5",
+		"InstanceType": "p2.16xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.319",
+		"InstanceType": "i3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.591",
+		"InstanceType": "c4.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.57",
+		"InstanceType": "m3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.28",
+		"InstanceType": "g3.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.404",
+		"InstanceType": "m4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.1",
+		"InstanceType": "hi1.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "15.813",
+		"InstanceType": "r4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "34.586",
+		"InstanceType": "x1.32xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.504",
+		"InstanceType": "c3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.751",
+		"InstanceType": "i2.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.188",
+		"InstanceType": "c3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "8.35",
+		"InstanceType": "hs1.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.293",
+		"InstanceType": "m1.large",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.728",
+		"InstanceType": "i3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.266",
+		"InstanceType": "m3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.926",
+		"InstanceType": "c4.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "2.05",
+		"InstanceType": "r3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.13",
+		"InstanceType": "cc2.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "4.332",
+		"InstanceType": "c3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.large",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.2xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "1.75",
+		"InstanceType": "c4",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "5.52",
+		"InstanceType": "d2.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.774",
+		"InstanceType": "m3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.005",
+		"InstanceType": "",
+		"OperationSystem": ""
+	},
+	{
+		"Price": "4.1",
+		"InstanceType": "r3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.88",
+		"InstanceType": "m4.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.598",
+		"InstanceType": "m1.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.662",
+		"InstanceType": "r4.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.585",
+		"InstanceType": "r4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.673",
+		"InstanceType": "r3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.73",
+		"InstanceType": "hs1.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.13",
+		"InstanceType": "m3.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.396",
+		"InstanceType": "r4.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "3.855",
+		"InstanceType": "r3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.65",
+		"InstanceType": "g2.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "8.672",
+		"InstanceType": "p2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "2.258",
+		"InstanceType": "r4.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "7.906",
+		"InstanceType": "r4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.16xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "1.248",
+		"InstanceType": "i3.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.16xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "g2.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.62",
+		"InstanceType": "c1.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "1.65",
+		"InstanceType": "f1.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.744",
+		"InstanceType": "m1.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "9.836",
+		"InstanceType": "i2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.large",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "7.8",
+		"InstanceType": "r4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.038",
+		"InstanceType": "i2.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.935",
+		"InstanceType": "m2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.10xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.632",
+		"InstanceType": "r4.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "2.23",
+		"InstanceType": "cg1.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "g2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.626",
+		"InstanceType": "i3.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "13.468",
+		"InstanceType": "x1.32xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.759",
+		"InstanceType": "d2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.68",
+		"InstanceType": "c3.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.66",
+		"InstanceType": "hi1.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.78",
+		"InstanceType": "f1.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.69",
+		"InstanceType": "m2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.326",
+		"InstanceType": "m3.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.624",
+		"InstanceType": "c4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "7.331",
+		"InstanceType": "m4.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.473",
+		"InstanceType": "i3.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "13.438",
+		"InstanceType": "x1.32xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.414",
+		"InstanceType": "c3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.516",
+		"InstanceType": "r3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.5",
+		"InstanceType": "cr1.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.97",
+		"InstanceType": "c3.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "7.336",
+		"InstanceType": "x1.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.21",
+		"InstanceType": "c4.large",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "33.613",
+		"InstanceType": "x1.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.16xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.31",
+		"InstanceType": "c3.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "14.4",
+		"InstanceType": "p2.16xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "7.44",
+		"InstanceType": "r4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "8.327",
+		"InstanceType": "r4.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.348",
+		"InstanceType": "i3.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.52",
+		"InstanceType": "c3.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "2.295",
+		"InstanceType": "r3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1",
+		"InstanceType": "p2.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "4.368",
+		"InstanceType": "i2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.1",
+		"InstanceType": "cg1.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "7.502",
+		"InstanceType": "i2",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "3.9",
+		"InstanceType": "r4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.029",
+		"InstanceType": "i3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.219",
+		"InstanceType": "c4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.296",
+		"InstanceType": "r4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.2",
+		"InstanceType": "m4.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.106",
+		"InstanceType": "t2.small",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.835",
+		"InstanceType": "i2.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "2.76",
+		"InstanceType": "d2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.245",
+		"InstanceType": "m2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.2294",
+		"InstanceType": "t2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.761",
+		"InstanceType": "d2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "8.35",
+		"InstanceType": "hs1.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.0082",
+		"InstanceType": "t2.nano",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.69",
+		"InstanceType": "d2.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "4.332",
+		"InstanceType": "c3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.63",
+		"InstanceType": "cr1.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "2.138",
+		"InstanceType": "r3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.362",
+		"InstanceType": "m1.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.51",
+		"InstanceType": "d2.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.033",
+		"InstanceType": "r3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.84",
+		"InstanceType": "c3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.692",
+		"InstanceType": "m1.small",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.24",
+		"InstanceType": "m4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.4xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "0.827",
+		"InstanceType": "c3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.5",
+		"InstanceType": "r3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "7.92",
+		"InstanceType": "p2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "6.198",
+		"InstanceType": "d2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "34.586",
+		"InstanceType": "x1.32xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.4",
+		"InstanceType": "m4.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.69",
+		"InstanceType": "d2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.4xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "1.615",
+		"InstanceType": "m3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "14.4",
+		"InstanceType": "p2.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.054",
+		"InstanceType": "c3.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.13",
+		"InstanceType": "cc2.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "3.891",
+		"InstanceType": "i2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.393",
+		"InstanceType": "r3.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.4",
+		"InstanceType": "m4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.178",
+		"InstanceType": "m2.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "1.194",
+		"InstanceType": "r4.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.248",
+		"InstanceType": "i3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.705",
+		"InstanceType": "r4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.4381",
+		"InstanceType": "t2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.715",
+		"InstanceType": "r4.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "3.036",
+		"InstanceType": "d2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.918",
+		"InstanceType": "i2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.072",
+		"InstanceType": "t2.micro",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "1.054",
+		"InstanceType": "i3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.333",
+		"InstanceType": "r3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.75",
+		"InstanceType": "g2.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.35",
+		"InstanceType": "m1.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.248",
+		"InstanceType": "t2.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "9.063",
+		"InstanceType": "i3.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.143",
+		"InstanceType": "m3.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.256",
+		"InstanceType": "r4.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.945",
+		"InstanceType": "f1.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "4.262",
+		"InstanceType": "c3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.672",
+		"InstanceType": "c1.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.1",
+		"InstanceType": "i2.4xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "10.94",
+		"InstanceType": "x1.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.971",
+		"InstanceType": "i2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "7.436",
+		"InstanceType": "x1.16xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.632",
+		"InstanceType": "m3.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.065",
+		"InstanceType": "t2.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.067",
+		"InstanceType": "m3.medium",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.233",
+		"InstanceType": "m3.large",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "1.536",
+		"InstanceType": "m4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.844",
+		"InstanceType": "g2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.264",
+		"InstanceType": "i3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2",
+		"InstanceType": "",
+		"OperationSystem": ""
+	},
+	{
+		"Price": "1.33",
+		"InstanceType": "r3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.423",
+		"InstanceType": "r4.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "8.523",
+		"InstanceType": "c3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.331",
+		"InstanceType": "c3.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.medium",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "5.122",
+		"InstanceType": "i3.16xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.087",
+		"InstanceType": "m1.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.78",
+		"InstanceType": "c3.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "2",
+		"InstanceType": "cc2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.092",
+		"InstanceType": "i2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.048",
+		"InstanceType": "m1.small",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.208",
+		"InstanceType": "m2.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.9",
+		"InstanceType": "p2.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.036",
+		"InstanceType": "m3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.79",
+		"InstanceType": "d2.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.876",
+		"InstanceType": "c4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "14.88",
+		"InstanceType": "r4.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.343",
+		"InstanceType": "i3.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "3.33",
+		"InstanceType": "m4.16xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "1.191",
+		"InstanceType": "c3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.02",
+		"InstanceType": "t1.micro",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.883",
+		"InstanceType": "c4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.202",
+		"InstanceType": "c4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.1",
+		"InstanceType": "c4.large",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.025",
+		"InstanceType": "",
+		"OperationSystem": ""
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "2",
+		"InstanceType": "m4.10xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.976",
+		"InstanceType": "m2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.788",
+		"InstanceType": "c3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.075",
+		"InstanceType": "m1.small",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.large",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "4.377",
+		"InstanceType": "r4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.341",
+		"InstanceType": "r4.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.128",
+		"InstanceType": "r4.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "7.936",
+		"InstanceType": "i3.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "5.65",
+		"InstanceType": "d2.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "2.124",
+		"InstanceType": "c1.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.21",
+		"InstanceType": "c3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.75",
+		"InstanceType": "f1.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.705",
+		"InstanceType": "i2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "6.95",
+		"InstanceType": "i2.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.1",
+		"InstanceType": "m4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.456",
+		"InstanceType": "m4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.977",
+		"InstanceType": "m3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.404",
+		"InstanceType": "m3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "2.66",
+		"InstanceType": "r3.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "2.185",
+		"InstanceType": "i2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.045",
+		"InstanceType": "",
+		"OperationSystem": ""
+	},
+	{
+		"Price": "0.206",
+		"InstanceType": "r4.large",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "1.628",
+		"InstanceType": "d2.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "2.443",
+		"InstanceType": "d2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.296",
+		"InstanceType": "c4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.88",
+		"InstanceType": "m4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.16xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.7183",
+		"InstanceType": "r4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.386",
+		"InstanceType": "r3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.624",
+		"InstanceType": "i3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.288",
+		"InstanceType": "t2.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "7.3",
+		"InstanceType": "p2.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.074",
+		"InstanceType": "m3.medium",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "1.053",
+		"InstanceType": "g2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.large",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.445",
+		"InstanceType": "m1.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "1.591",
+		"InstanceType": "c4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "g3.4xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "0.52",
+		"InstanceType": "c1.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "1.468",
+		"InstanceType": "m3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.99",
+		"InstanceType": "p2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.862",
+		"InstanceType": "r3.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "2.41",
+		"InstanceType": "g3.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "8.64",
+		"InstanceType": "m4.10xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.183",
+		"InstanceType": "r3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.133",
+		"InstanceType": "m3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "13.3",
+		"InstanceType": "f1.16xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "2.28",
+		"InstanceType": "g3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.large",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "7.576",
+		"InstanceType": "c3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "13.2",
+		"InstanceType": "f1.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.532",
+		"InstanceType": "m3.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.26",
+		"InstanceType": "m4.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.992",
+		"InstanceType": "i3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.95",
+		"InstanceType": "m3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.3",
+		"InstanceType": "m4.16xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.266",
+		"InstanceType": "m3.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.17",
+		"InstanceType": "c4.large",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.193",
+		"InstanceType": "m1.large",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "7.536",
+		"InstanceType": "m4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.176",
+		"InstanceType": "c3.large",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "1.503",
+		"InstanceType": "i3.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.426",
+		"InstanceType": "r3.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "67.226",
+		"InstanceType": "x1.32xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.2",
+		"InstanceType": "m4.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.122",
+		"InstanceType": "t2.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "7.33",
+		"InstanceType": "p2.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.438",
+		"InstanceType": "c4.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.376",
+		"InstanceType": "t2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "2.622",
+		"InstanceType": "i2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.11",
+		"InstanceType": "c4.large",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.341",
+		"InstanceType": "c1.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "31.936",
+		"InstanceType": "i3.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.017",
+		"InstanceType": "t2.micro",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.253",
+		"InstanceType": "m1.large",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.022",
+		"InstanceType": "t2.micro",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "4.56",
+		"InstanceType": "g3.16xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "4.992",
+		"InstanceType": "i3.16xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.466",
+		"InstanceType": "r3.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "4.992",
+		"InstanceType": "i3.16xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "3.2",
+		"InstanceType": "m4.16xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.1",
+		"InstanceType": "c4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.435",
+		"InstanceType": "m1.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.599",
+		"InstanceType": "m2.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.279",
+		"InstanceType": "c4.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.84",
+		"InstanceType": "c3.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "3.953",
+		"InstanceType": "r4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.096",
+		"InstanceType": "m1.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "13.33",
+		"InstanceType": "f1.16xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.105",
+		"InstanceType": "c3.large",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.02",
+		"InstanceType": "t1.micro",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.1",
+		"InstanceType": "cg1.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.2xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "3.85",
+		"InstanceType": "cg1.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "5.122",
+		"InstanceType": "i3.16xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "3.1",
+		"InstanceType": "hi1.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "f1.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "3.23",
+		"InstanceType": "hi1.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.33",
+		"InstanceType": "m2.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "1.591",
+		"InstanceType": "c4.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "14.53",
+		"InstanceType": "p2.16xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "4.532",
+		"InstanceType": "i3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.845",
+		"InstanceType": "g2.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.199",
+		"InstanceType": "c4.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "3.019",
+		"InstanceType": "c4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.629",
+		"InstanceType": "m1.small",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.45",
+		"InstanceType": "m1.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "4.56",
+		"InstanceType": "g3.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.443",
+		"InstanceType": "i3.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.8",
+		"InstanceType": "m4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.3",
+		"InstanceType": "m4.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.498",
+		"InstanceType": "c4.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.1",
+		"InstanceType": "m4.large",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.03",
+		"InstanceType": "t1.micro",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "7.331",
+		"InstanceType": "m4.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.9566",
+		"InstanceType": "r4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "1.378",
+		"InstanceType": "i3.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.146",
+		"InstanceType": "r4.large",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.156",
+		"InstanceType": "m1.medium",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.16xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.246",
+		"InstanceType": "r4.large",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "3.851",
+		"InstanceType": "i2.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "p2.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.23",
+		"InstanceType": "c1.medium",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "2.344",
+		"InstanceType": "c3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "g2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.87",
+		"InstanceType": "m2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.235",
+		"InstanceType": "m1.large",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.233",
+		"InstanceType": "r4.large",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.156",
+		"InstanceType": "i3.large",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.7",
+		"InstanceType": "g2.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "8.05",
+		"InstanceType": "p2.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.5",
+		"InstanceType": "m4.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.047",
+		"InstanceType": "t2.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.188",
+		"InstanceType": "t2.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.293",
+		"InstanceType": "m3.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.561",
+		"InstanceType": "c3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.83",
+		"InstanceType": "m1.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.84",
+		"InstanceType": "c1.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.98",
+		"InstanceType": "m4.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.433",
+		"InstanceType": "r3.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "2.6",
+		"InstanceType": "cg1.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.19",
+		"InstanceType": "c1.medium",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.146",
+		"InstanceType": "r4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2",
+		"InstanceType": "cc2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.955",
+		"InstanceType": "m1.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.05",
+		"InstanceType": "r3.2xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "3.2",
+		"InstanceType": "m4.16xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.large",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "1.27",
+		"InstanceType": "g3.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.686",
+		"InstanceType": "i3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.207",
+		"InstanceType": "c3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.133",
+		"InstanceType": "i3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "9.613",
+		"InstanceType": "x1.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.231",
+		"InstanceType": "c3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.79",
+		"InstanceType": "r3.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.924",
+		"InstanceType": "c3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.319",
+		"InstanceType": "c4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "1.276",
+		"InstanceType": "c1.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.527",
+		"InstanceType": "i3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "13.338",
+		"InstanceType": "x1.32xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "4.73",
+		"InstanceType": "hs1.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "6.82",
+		"InstanceType": "i2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.183",
+		"InstanceType": "r3.large",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "3.059",
+		"InstanceType": "c4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.175",
+		"InstanceType": "m1.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.445",
+		"InstanceType": "m2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.463",
+		"InstanceType": "r3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "14.4",
+		"InstanceType": "p2.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.904",
+		"InstanceType": "i3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.459",
+		"InstanceType": "i2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.766",
+		"InstanceType": "c4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.133",
+		"InstanceType": "m3.large",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "1.174",
+		"InstanceType": "p2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.24",
+		"InstanceType": "g3.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.807",
+		"InstanceType": "m3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.952",
+		"InstanceType": "i3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.1",
+		"InstanceType": "hi1.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.759",
+		"InstanceType": "d2.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "p2.16xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.532",
+		"InstanceType": "r4.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.612",
+		"InstanceType": "c4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "f1.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.10xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "1.844",
+		"InstanceType": "m4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "5.52",
+		"InstanceType": "d2.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "1.17",
+		"InstanceType": "r4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.54",
+		"InstanceType": "m4.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "15.152",
+		"InstanceType": "c3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.808",
+		"InstanceType": "m4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.85",
+		"InstanceType": "cg1.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "p2.16xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "g2.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "g2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.147",
+		"InstanceType": "m1.medium",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.85",
+		"InstanceType": "m2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.702",
+		"InstanceType": "c1.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "1.7",
+		"InstanceType": "m2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "6.799",
+		"InstanceType": "x1.16xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "p2.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.986",
+		"InstanceType": "i2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "2.508",
+		"InstanceType": "g3.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.312",
+		"InstanceType": "i3.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "6.82",
+		"InstanceType": "i2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.335",
+		"InstanceType": "i3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.924",
+		"InstanceType": "c3.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.025",
+		"InstanceType": "m3.xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "7.2",
+		"InstanceType": "r4.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.754",
+		"InstanceType": "i3.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "1.066",
+		"InstanceType": "c3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.93",
+		"InstanceType": "m4.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.048",
+		"InstanceType": "m1.small",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "g2.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "1.43",
+		"InstanceType": "r3.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.187",
+		"InstanceType": "m1.medium",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "1.045",
+		"InstanceType": "r3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "67.226",
+		"InstanceType": "x1.32xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.225",
+		"InstanceType": "r4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.704",
+		"InstanceType": "m3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "2",
+		"InstanceType": "m4.10xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.083",
+		"InstanceType": "t2.small",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "2.508",
+		"InstanceType": "g3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.141",
+		"InstanceType": "i2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.133",
+		"InstanceType": "r4.large",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.536",
+		"InstanceType": "m4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.053",
+		"InstanceType": "t2.small",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "1.915",
+		"InstanceType": "c3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.1",
+		"InstanceType": "r3.4xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "1.654",
+		"InstanceType": "c3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.6",
+		"InstanceType": "r4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.815",
+		"InstanceType": "f1.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "13.2",
+		"InstanceType": "f1",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.99",
+		"InstanceType": "p2.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "p2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.7",
+		"InstanceType": "hs1.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "7.504",
+		"InstanceType": "g3.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "5.491",
+		"InstanceType": "i3",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "4.386",
+		"InstanceType": "r4.16xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.237",
+		"InstanceType": "m1.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.14",
+		"InstanceType": "g3.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "9.392",
+		"InstanceType": "p2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "2.525",
+		"InstanceType": "r3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.926",
+		"InstanceType": "r3",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.large",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "3.6",
+		"InstanceType": "cr1.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "3.84",
+		"InstanceType": "m4.10xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.271",
+		"InstanceType": "c3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.537",
+		"InstanceType": "i2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.10xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.343",
+		"InstanceType": "i3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.786",
+		"InstanceType": "i3.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "16.747",
+		"InstanceType": "c4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.large",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.57",
+		"InstanceType": "cc2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.49",
+		"InstanceType": "m2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.6",
+		"InstanceType": "hs1.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "5.52",
+		"InstanceType": "d2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.518",
+		"InstanceType": "m2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "7.66",
+		"InstanceType": "c3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.585",
+		"InstanceType": "m3.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "6.072",
+		"InstanceType": "d2",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "2.471",
+		"InstanceType": "r4.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.65",
+		"InstanceType": "c1.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.44",
+		"InstanceType": "m4.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.2",
+		"InstanceType": "c4.large",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "1.81",
+		"InstanceType": "c3.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.078",
+		"InstanceType": "m1.small",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "3.968",
+		"InstanceType": "i3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "5.073",
+		"InstanceType": "i2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "20.292",
+		"InstanceType": "i2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.976",
+		"InstanceType": "i2.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "2.027",
+		"InstanceType": "i3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "2.532",
+		"InstanceType": "m3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.193",
+		"InstanceType": "m1.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.86",
+		"InstanceType": "r4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.9",
+		"InstanceType": "r4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.691",
+		"InstanceType": "c4.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.02",
+		"InstanceType": "i2.xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "0.345",
+		"InstanceType": "m2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "p2.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.806",
+		"InstanceType": "c4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "3.091",
+		"InstanceType": "c4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "5.538",
+		"InstanceType": "c4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "20.676",
+		"InstanceType": "d2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.199",
+		"InstanceType": "c4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.732",
+		"InstanceType": "r3.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "1.848",
+		"InstanceType": "c3",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.66",
+		"InstanceType": "r3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.6",
+		"InstanceType": "hs1.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.366",
+		"InstanceType": "r4.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "g2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "g2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.05",
+		"InstanceType": "c3.2xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "1.984",
+		"InstanceType": "i3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.68",
+		"InstanceType": "c3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.312",
+		"InstanceType": "i3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "12.485",
+		"InstanceType": "c4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.639",
+		"InstanceType": "m2.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.025",
+		"InstanceType": "m2.2xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.9",
+		"InstanceType": "m4.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.259",
+		"InstanceType": "m3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.128",
+		"InstanceType": "r4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.662",
+		"InstanceType": "m3.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "3.1",
+		"InstanceType": "hi1.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.796",
+		"InstanceType": "c4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.695",
+		"InstanceType": "m3.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.293",
+		"InstanceType": "r4.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.65",
+		"InstanceType": "g2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.02",
+		"InstanceType": "r3.xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.7",
+		"InstanceType": "hs1.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "6.82",
+		"InstanceType": "i2.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "11.607",
+		"InstanceType": "x1.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.193",
+		"InstanceType": "m3.large",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.532",
+		"InstanceType": "m3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.766",
+		"InstanceType": "c4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.13",
+		"InstanceType": "c1.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.078",
+		"InstanceType": "m2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "16.132",
+		"InstanceType": "r3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.83",
+		"InstanceType": "c3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.064",
+		"InstanceType": "r4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.477",
+		"InstanceType": "r4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.38",
+		"InstanceType": "m2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "g3.16xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.476",
+		"InstanceType": "t2.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.261",
+		"InstanceType": "m1.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "7.942",
+		"InstanceType": "i2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.041",
+		"InstanceType": "r3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.84",
+		"InstanceType": "m4.10xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.047",
+		"InstanceType": "t2.medium",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.366",
+		"InstanceType": "m3.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.192",
+		"InstanceType": "m4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.658",
+		"InstanceType": "m1.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "9.772",
+		"InstanceType": "d2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.0059",
+		"InstanceType": "t2.nano",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "p2.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.398",
+		"InstanceType": "c4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.983",
+		"InstanceType": "m4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.08",
+		"InstanceType": "t1.micro",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.10xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "0.096",
+		"InstanceType": "m1.medium",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "2.746",
+		"InstanceType": "i3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.266",
+		"InstanceType": "r4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "4.356",
+		"InstanceType": "r4.16xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "2.13",
+		"InstanceType": "m4.10xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "9.063",
+		"InstanceType": "i3.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.3",
+		"InstanceType": "cc1.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.41",
+		"InstanceType": "m1.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.598",
+		"InstanceType": "i3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.752",
+		"InstanceType": "g3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.10xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.05",
+		"InstanceType": "m1.xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "1.384",
+		"InstanceType": "g3.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "p2.xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.large",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "30.144",
+		"InstanceType": "m4.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.6",
+		"InstanceType": "g2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "p2.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "3.51",
+		"InstanceType": "i2.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "17.344",
+		"InstanceType": "p2.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.957",
+		"InstanceType": "g2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "g2.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.172",
+		"InstanceType": "i3.large",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "1.426",
+		"InstanceType": "c4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.173",
+		"InstanceType": "c3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.938",
+		"InstanceType": "i2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.808",
+		"InstanceType": "m4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.821",
+		"InstanceType": "d2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.238",
+		"InstanceType": "r4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "p2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "8.615",
+		"InstanceType": "r3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "16.218",
+		"InstanceType": "i3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "6.144",
+		"InstanceType": "m4.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.724",
+		"InstanceType": "i3.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.532",
+		"InstanceType": "r4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.8264",
+		"InstanceType": "r4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "7.25",
+		"InstanceType": "cr1.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.116",
+		"InstanceType": "c3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.109",
+		"InstanceType": "i3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.403",
+		"InstanceType": "c4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.876",
+		"InstanceType": "i2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.953",
+		"InstanceType": "i2.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.9",
+		"InstanceType": "p2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "13.33",
+		"InstanceType": "f1.16xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "13.2",
+		"InstanceType": "f1.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.22",
+		"InstanceType": "m4.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.944",
+		"InstanceType": "r3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "41.344",
+		"InstanceType": "p2.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.946",
+		"InstanceType": "r3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.66",
+		"InstanceType": "r3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "g2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.216",
+		"InstanceType": "i3.large",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "2.73",
+		"InstanceType": "g2.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "19.226",
+		"InstanceType": "x1.32xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "16.747",
+		"InstanceType": "c4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.383",
+		"InstanceType": "c4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.6",
+		"InstanceType": "g2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.07",
+		"InstanceType": "i2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "8.058",
+		"InstanceType": "i3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.775",
+		"InstanceType": "cc2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.359",
+		"InstanceType": "m3.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "0.462",
+		"InstanceType": "c3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "x1.32xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "2.374",
+		"InstanceType": "d2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.37",
+		"InstanceType": "m2.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "4.66",
+		"InstanceType": "g3.16xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.large",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "1.248",
+		"InstanceType": "i3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.58",
+		"InstanceType": "hi1.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.412",
+		"InstanceType": "i3.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.large",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "0.59",
+		"InstanceType": "m2.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "1.15",
+		"InstanceType": "r3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.55",
+		"InstanceType": "c3.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.672",
+		"InstanceType": "m4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.732",
+		"InstanceType": "r3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.496",
+		"InstanceType": "i3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.785",
+		"InstanceType": "m3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.567",
+		"InstanceType": "i3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "13.3",
+		"InstanceType": "f1.16xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "20.676",
+		"InstanceType": "d2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.5",
+		"InstanceType": "cr1.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.084",
+		"InstanceType": "m2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.913",
+		"InstanceType": "i2.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "p2.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.57",
+		"InstanceType": "m4.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.266",
+		"InstanceType": "r3.large",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.large",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "1.192",
+		"InstanceType": "m2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.329",
+		"InstanceType": "c4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.356",
+		"InstanceType": "r4.16xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.large",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "3.751",
+		"InstanceType": "i2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.167",
+		"InstanceType": "m3.medium",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.05",
+		"InstanceType": "c1.xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.large",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.153",
+		"InstanceType": "m1.small",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.091",
+		"InstanceType": "c4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.1",
+		"InstanceType": "c3.4xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "0.319",
+		"InstanceType": "c4.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.107",
+		"InstanceType": "t2.medium",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.94",
+		"InstanceType": "c3.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.403",
+		"InstanceType": "m3.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "19.226",
+		"InstanceType": "x1.32xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "5.144",
+		"InstanceType": "hs1.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.483",
+		"InstanceType": "m4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.585",
+		"InstanceType": "r3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.23",
+		"InstanceType": "cg1.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "3.2",
+		"InstanceType": "hi1.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "12.485",
+		"InstanceType": "c4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "",
+		"OperationSystem": ""
+	},
+	{
+		"Price": "0.005",
+		"InstanceType": "",
+		"OperationSystem": ""
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.886",
+		"InstanceType": "d2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "13.438",
+		"InstanceType": "x1.32xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "3.831",
+		"InstanceType": "cr1.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.45",
+		"InstanceType": "r4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.014",
+		"InstanceType": "i3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "4.582",
+		"InstanceType": "m4.10xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.81",
+		"InstanceType": "c3.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "17.344",
+		"InstanceType": "p2.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.398",
+		"InstanceType": "c4.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.149",
+		"InstanceType": "m1.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.012",
+		"InstanceType": "t2.micro",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "1.006",
+		"InstanceType": "c4.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "1.08",
+		"InstanceType": "m2.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "p2.16xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "0.795",
+		"InstanceType": "r3.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.256",
+		"InstanceType": "m3.large",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "3.008",
+		"InstanceType": "c3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.49",
+		"InstanceType": "m2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.521",
+		"InstanceType": "r4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.496",
+		"InstanceType": "i3.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "3.036",
+		"InstanceType": "d2.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.252",
+		"InstanceType": "m4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.large",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "6.92",
+		"InstanceType": "i2.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.166",
+		"InstanceType": "r3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.164",
+		"InstanceType": "r4.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "1.894",
+		"InstanceType": "c3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "15.616",
+		"InstanceType": "i3.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.291",
+		"InstanceType": "c3.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.21",
+		"InstanceType": "c1.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.143",
+		"InstanceType": "c1.medium",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "1.09",
+		"InstanceType": "p2.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "13.2",
+		"InstanceType": "f1.16xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "1.99",
+		"InstanceType": "g3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.341",
+		"InstanceType": "m3",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.884",
+		"InstanceType": "m4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "8.523",
+		"InstanceType": "c3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "g3.8xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.054",
+		"InstanceType": "i3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.721",
+		"InstanceType": "c4.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "7.2",
+		"InstanceType": "p2.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.403",
+		"InstanceType": "i3.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.782",
+		"InstanceType": "i3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.904",
+		"InstanceType": "m4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.254",
+		"InstanceType": "g3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.345",
+		"InstanceType": "m2.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "13.468",
+		"InstanceType": "x1.32xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "2.017",
+		"InstanceType": "r3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.703",
+		"InstanceType": "cg1.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.025",
+		"InstanceType": "m1.large",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "18.84",
+		"InstanceType": "m4.10xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.367",
+		"InstanceType": "m3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.354",
+		"InstanceType": "g3.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.42",
+		"InstanceType": "c3.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.02",
+		"InstanceType": "t1.micro",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "1.46",
+		"InstanceType": "r3.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.425",
+		"InstanceType": "r3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.051",
+		"InstanceType": "m1.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "8.066",
+		"InstanceType": "r3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.194",
+		"InstanceType": "t2.large",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.094",
+		"InstanceType": "t2.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.254",
+		"InstanceType": "g3.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "1.65",
+		"InstanceType": "f1.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.342",
+		"InstanceType": "t2.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.973",
+		"InstanceType": "i2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.256",
+		"InstanceType": "r4.16xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "3.54",
+		"InstanceType": "i2.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "3.274",
+		"InstanceType": "m2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.878",
+		"InstanceType": "g2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.259",
+		"InstanceType": "c4.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "3.992",
+		"InstanceType": "i3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.992",
+		"InstanceType": "i3.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.596",
+		"InstanceType": "i3.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.147",
+		"InstanceType": "t2.medium",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "21.88",
+		"InstanceType": "x1.32xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.1",
+		"InstanceType": "cg1.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.285",
+		"InstanceType": "m3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.13",
+		"InstanceType": "c1.medium",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.98",
+		"InstanceType": "m2.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.439",
+		"InstanceType": "m4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.818",
+		"InstanceType": "m1.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.539",
+		"InstanceType": "m2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.341",
+		"InstanceType": "r4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.685",
+		"InstanceType": "r4.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.188",
+		"InstanceType": "r4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.485",
+		"InstanceType": "m1.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "1.977",
+		"InstanceType": "r4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.38",
+		"InstanceType": "m2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.105",
+		"InstanceType": "c3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.256",
+		"InstanceType": "i3.large",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.813",
+		"InstanceType": "r4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.991",
+		"InstanceType": "c4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.68",
+		"InstanceType": "c3.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "4.164",
+		"InstanceType": "r4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.28",
+		"InstanceType": "i2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.245",
+		"InstanceType": "m2.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "1.661",
+		"InstanceType": "d2.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "3.58",
+		"InstanceType": "hi1.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "g2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.078",
+		"InstanceType": "m2.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.853",
+		"InstanceType": "i2.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.55",
+		"InstanceType": "m2.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "p2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.855",
+		"InstanceType": "r3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.69",
+		"InstanceType": "g3.16xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "6.95",
+		"InstanceType": "i2.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.23",
+		"InstanceType": "i2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.438",
+		"InstanceType": "c4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "f1.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.98",
+		"InstanceType": "m2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.4xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "13.338",
+		"InstanceType": "x1.32xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "2",
+		"InstanceType": "cc2.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "4.198",
+		"InstanceType": "g2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "5.092",
+		"InstanceType": "i3.16xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.596",
+		"InstanceType": "c3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "9.496",
+		"InstanceType": "d2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.266",
+		"InstanceType": "r4.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "p2.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "4.931",
+		"InstanceType": "hs1.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.146",
+		"InstanceType": "m3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.815",
+		"InstanceType": "f1.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.496",
+		"InstanceType": "i3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.765",
+		"InstanceType": "r3.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.876",
+		"InstanceType": "c4.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "1.532",
+		"InstanceType": "c4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.283",
+		"InstanceType": "r3.large",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "3.98",
+		"InstanceType": "g3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.993",
+		"InstanceType": "i2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.1",
+		"InstanceType": "cg1.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.032",
+		"InstanceType": "t2.small",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.593",
+		"InstanceType": "r3.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.large",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "3.768",
+		"InstanceType": "m4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.299",
+		"InstanceType": "c4.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "1.906",
+		"InstanceType": "r4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.853",
+		"InstanceType": "i2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "15.616",
+		"InstanceType": "i3.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "g2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.272",
+		"InstanceType": "i3.large",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.05",
+		"InstanceType": "m2.4xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "4.688",
+		"InstanceType": "c3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.353",
+		"InstanceType": "m3.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.542",
+		"InstanceType": "c3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.305",
+		"InstanceType": "m2.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "7.466",
+		"InstanceType": "x1.16xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "1.95",
+		"InstanceType": "r4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "8.02",
+		"InstanceType": "p2.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.196",
+		"InstanceType": "m1.medium",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "15.152",
+		"InstanceType": "c3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.388",
+		"InstanceType": "m3.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "14.672",
+		"InstanceType": "x1",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "41.344",
+		"InstanceType": "p2.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.992",
+		"InstanceType": "i3.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "5.244",
+		"InstanceType": "i2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.1",
+		"InstanceType": "m4.10xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.759",
+		"InstanceType": "m2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.592",
+		"InstanceType": "c3.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "3.5",
+		"InstanceType": "cr1.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "1.373",
+		"InstanceType": "i3.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "6.092",
+		"InstanceType": "c4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.41",
+		"InstanceType": "cc2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "6.82",
+		"InstanceType": "i2.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.768",
+		"InstanceType": "m4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.16xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "13.338",
+		"InstanceType": "x1.32xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.4xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.219",
+		"InstanceType": "c4.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.175",
+		"InstanceType": "m1.large",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.10xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.203",
+		"InstanceType": "c1.medium",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "3.831",
+		"InstanceType": "cr1.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.6",
+		"InstanceType": "cg1.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.16",
+		"InstanceType": "m4.large",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "2.79",
+		"InstanceType": "r3.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.212",
+		"InstanceType": "t2.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.372",
+		"InstanceType": "i3.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.127",
+		"InstanceType": "m3.medium",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.205",
+		"InstanceType": "c3.large",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.57",
+		"InstanceType": "cc2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.218",
+		"InstanceType": "i3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "18.84",
+		"InstanceType": "m4.10xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.2xlarge",
+		"OperationSystem": "NA"
+	},
+	{
+		"Price": "2",
+		"InstanceType": "m4.10xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "8.109",
+		"InstanceType": "i3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.32",
+		"InstanceType": "m4.xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.583",
+		"InstanceType": "r3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.1",
+		"InstanceType": "m4.10xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "7.984",
+		"InstanceType": "i3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.232",
+		"InstanceType": "i3.large",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.93",
+		"InstanceType": "r4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.202",
+		"InstanceType": "m3.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.10xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "7.612",
+		"InstanceType": "c4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.52",
+		"InstanceType": "c1.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "5.044",
+		"InstanceType": "r3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.49",
+		"InstanceType": "m2.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "2.228",
+		"InstanceType": "r4.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "2.74",
+		"InstanceType": "r3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.8",
+		"InstanceType": "r4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "g2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "3.2",
+		"InstanceType": "hi1.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.903",
+		"InstanceType": "d2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.96",
+		"InstanceType": "p2.xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "10.28",
+		"InstanceType": "x1.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.188",
+		"InstanceType": "t2.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.976",
+		"InstanceType": "i3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.86",
+		"InstanceType": "g2",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.479",
+		"InstanceType": "m1.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r3.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "3.368",
+		"InstanceType": "d2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "7.782",
+		"InstanceType": "i2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.074",
+		"InstanceType": "m1.small",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "15.84",
+		"InstanceType": "p2",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "2.391",
+		"InstanceType": "i3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.384",
+		"InstanceType": "m4.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c3.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "5.092",
+		"InstanceType": "i3.16xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m4.large",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "3.9",
+		"InstanceType": "m3.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "34.28",
+		"InstanceType": "x1.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "4.56",
+		"InstanceType": "g3.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.441",
+		"InstanceType": "r4.8xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "4.044",
+		"InstanceType": "cr1.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "d2.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.172",
+		"InstanceType": "i3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "f1.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.184",
+		"InstanceType": "m3.medium",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.815",
+		"InstanceType": "g2.2xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.medium",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "i3.16xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.14",
+		"InstanceType": "m3.medium",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "14.5",
+		"InstanceType": "p2.16xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "2.266",
+		"InstanceType": "i3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.331",
+		"InstanceType": "c4.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "7.2",
+		"InstanceType": "r4.16xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "16.072",
+		"InstanceType": "g2.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.231",
+		"InstanceType": "c3.xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "1.946",
+		"InstanceType": "i2.2xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.116",
+		"InstanceType": "c3.large",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "1.007",
+		"InstanceType": "i3.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.16",
+		"InstanceType": "c1.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.11",
+		"InstanceType": "m4.large",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "1.876",
+		"InstanceType": "g3.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.518",
+		"InstanceType": "d2.2xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.8",
+		"InstanceType": "m4.4xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "m3.large",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "0.291",
+		"InstanceType": "r3.large",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "c4.8xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "0.78",
+		"InstanceType": "g2.2xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "2.746",
+		"InstanceType": "i3.8xlarge",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "0.385",
+		"InstanceType": "m1.xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "1.024",
+		"InstanceType": "c3.4xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0",
+		"InstanceType": "r4.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": "2.638",
+		"InstanceType": "g3.8xlarge",
+		"OperationSystem": "RHEL"
+	},
+	{
+		"Price": "3.3",
+		"InstanceType": "m4.16xlarge",
+		"OperationSystem": "SUSE"
+	},
+	{
+		"Price": "0.087",
+		"InstanceType": "m1.medium",
+		"OperationSystem": "Linux"
+	},
+	{
+		"Price": "5.41",
+		"InstanceType": "i2.4xlarge",
+		"OperationSystem": "Windows"
+	},
+	{
+		"Price": ""
+	}
+]

@@ -1,0 +1,174 @@
+
+doctype html
+html(lang='en')
+  head
+    title AWS Dashboard
+    meta(charset='utf-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    link(rel='stylesheet', href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css')
+    script(src='https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js')
+    script(src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js')
+    script(src='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js')
+    link(rel='stylesheet', href='https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/css/bootstrap-select.min.css')
+    script(src='https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/js/bootstrap-select.min.js')
+    script(src='https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.js')
+    script(src="./javascripts/scripts.js")
+    link(rel='stylesheet', href='./stylesheets/style.css')
+    script.
+      var chart;
+      $(document).ready(function () {
+          var myData = [];
+          var myLabels = [];
+          var requestIT = $.ajax({    //GET INSTANCE TYPES
+                  url: "/getInstanceTypes",
+                  type: "GET",
+                  error: function (xhr, status, error) {
+                      alert('error getting instance types');
+                  }
+                  
+              });
+              requestIT.done(function (data1) {   //FILL INSTANCE TYPE TYPEDROPDOWN
+                  for(let i=0; i<data1.length;i++)
+                   $("#itdd").append("<option>" + data1[i] + "</option>");    
+                  $("#itdd").selectpicker('refresh');
+              });
+          var requestOS = $.ajax({            //GET OPERATING SYSTEMS 
+                  url: "/getProductDescriptions",
+                  type: "GET",
+                  error: function (xhr, status, error) {
+                      alert('error getting product info');
+                  }
+                  
+              });
+              requestOS.done(function (data1) { //FILL OPERATING SYSTEM TYPEDROPDOWN
+                  for(let i=0; i<data1.length;i++)
+                   $("#osdd").append("<option>" + data1[i] + "</option>");    
+                  $("#osdd").selectpicker('refresh');
+
+              });
+          var requestAZ = $.ajax({    //GET AVAILABILITY ZONES
+                  url: "/getAvailabilityZones",
+                  type: "GET",
+                  error: function (xhr, status, error) {
+                      alert('error getting availability zones');
+                  }
+                  
+              });
+              requestAZ.done(function (data1) { //FILL AVAILABILITY ZONE TYPEDROPDOWN
+                  for(let i=0; i<data1.length;i++)
+                   $("#azdd").append("<option>" + data1[i] + "</option>");    
+                  $("#azdd").selectpicker('refresh');
+
+              });
+          $("#checkBtn").click(function () {
+              hideGUI();
+              $("#graphHere").show();
+              var onDemandPrice;
+              var request = $.ajax({
+                  url: "/getPriceHistory",
+                  type: "POST",
+                  data: {
+                      'az': $('#azdd option:selected').val(),
+                      'it': $('#itdd option:selected').val(),
+                      'os': $('#osdd option:selected').val()
+                  },
+                  error: function (xhr, status, error) {
+                      alert('error getting spot price history');
+                  }
+              });
+
+              request.done(function (priceHistory) 
+              {
+                  let splitData = splitAndHandleObject(priceHistory);
+                  myLabels = splitData[0];    //dates 
+                  myData = splitData[1];      //prices
+                  $("#avgPrice").text(splitData[2].toFixed(5) + '$'); //avg
+                  $("#minPrice").text(Math.min.apply(null, myData.filter(Boolean)) + '$'); //excluding zero
+                  $("#maxPrice").text(Math.max.apply(null, myData) + '$');
+                  var ctx = document.getElementById('myChart').getContext('2d');
+                  if (chart)
+                      chart.destroy();
+                  if (myData.length > 0) 
+                  {
+                      createChart(ctx, myData, myLabels);   //Generate chart with data revieved
+                      if (myData[myData.length - 1] < 0.5 * onDemandPrice) 
+                      {
+                          $("#priceAlert").text("The current Spot Instance price is less than 50% of the On Demand Price");
+                          $("#alertDiv").show();
+                          $("#priceAlert").css('background-color', 'green');
+                      }
+                      else 
+                      {
+                          $("#alertDiv").show();
+                          $("#priceAlert").css('background-color', 'red');
+                          $("#priceAlert").text("The current Spot Instance price is more than 50% of the On Demand Price");
+                      }
+                      $("#chartDiv").show();
+                      $("#myChart").show();
+                      $("#minMaxTable").show();
+                  }
+                  else  //when theres no data
+                  {
+                      $("#minPrice").text("N/A");
+                      $("#maxPrice").text("N/A");
+                      $("#avgPrice").text("N/A");
+                      $("#noData").show();
+                      $("#alertDiv").hide();
+                      $("#chartDiv").hide();
+                  }
+                  $("#minMaxTable").show();
+                  $("#graphHere").hide();
+              });
+              var request2 = $.ajax({
+                  url: "/getOnDemandPrice",
+                  type: "POST",
+                  data: {
+                      'it': $('#itdd option:selected').val(),
+                      'os': $('#osdd option:selected').val()
+                  }
+              });
+              request2.done(function (data1) {
+
+                  $("#onDemandPrice").html(data1 + '$');
+                  onDemandPrice = data1;
+
+              });
+          });
+      });
+  body
+    div#welcomeDiv.jumbotron.text-center
+      h1 AWS Dashboard
+      p Pick a combination below to get price history
+      p Region : us-east-1 (Virginia)
+    .container
+      .row
+  .col-sm-3.centerText
+    select#azdd.selectpicker
+  .col-sm-3.centerText
+    select#itdd.selectpicker
+  .col-sm-3.centerText
+    select#osdd.selectpicker
+  .col-sm-3.centerText
+    button#checkBtn.btn.btn-success.dropdown-toggle(type='button', data-toggle='dropdown') Check
+    .container.text-center
+  table#minMaxTable.table.text-center
+    thead
+      tr.boldFont
+        td Min
+        td Max
+        td Average
+        td On Demand
+    tbody
+      tr.blackFont
+        td#minPrice 
+        td#maxPrice 
+        td#avgPrice 
+        td#onDemandPrice 
+    div#graphHere.jumbotron.text-center
+      h3 Select a combination and press check to see a graph 
+    div#noData.text-center
+      h2 No available data for this combination
+    div#chartDiv
+      canvas#myChart
+    div#alertDiv.container.text-center
+      h2#priceAlert.text-center The current Spot Instance price is less/more than 50% of the On Demand Price 

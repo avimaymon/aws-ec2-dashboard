@@ -1,0 +1,60 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color:rgba(102,178,255,0.5);
+}
+
+a {
+  color: #00B7FF;
+}
+.centerText 
+{
+  text-align:center;
+}
+.boldFont
+{
+  font-weight: bold;
+}
+.blackFont 
+{
+  color:black;
+}
+#graphHere
+{
+  margin:20px;
+  margin-top:60px;
+}
+#noData
+{
+  color:red;
+  display:none;
+  margin-top:60p;
+}
+#chartDiv
+{
+  margin:5px;
+  display:none;
+}
+#alertDiv
+{
+  width:50%;
+  display:none;
+}
+#priceAlert
+{
+  border-radius:20px;
+  color:rgba(255,255,255,0.8);
+}
+#minMaxTable
+{
+  width:50%;
+  margin:auto;
+  background-color:rgb(233,233,233);
+  border-radius:10px;
+  color:rgb(0,153,76);
+  display:none;
+}
+#welcomeDiv
+{
+  background-color:rgba(102,178,255,1);
+}
